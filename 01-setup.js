@@ -1,4 +1,4 @@
-db = db.getSiblingDB("libraryDB");
+db = db.getSiblingDB("libraryMgmtDB");
 
 db.createCollection("users", {
   validator: { $jsonSchema: {
