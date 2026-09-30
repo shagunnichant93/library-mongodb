@@ -1,4 +1,4 @@
-db = db.getSiblingDB("libraryDB");
+db = db.getSiblingDB("libraryMgmtDB");
 
 // Change a field
 db.users.updateOne({ email: "asha@example.com" }, { $set: { name: "Asha V. Sharma" } });
