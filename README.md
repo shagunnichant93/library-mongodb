@@ -142,4 +142,4 @@ db.transactions.aggregate([
 
 ## Author
 
-Shagun Nichant, [GitHub profile](https://github.com/shagunnichant93/library-mongodb.git)
+Shagun Nichant, [GitHub profile](https://github.com/shagunnichant93/)
